@@ -1,2 +1,0 @@
-C:/Users/ADMIN/Desktop/todo/project.c/spxe-main/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
-C:/Users/ADMIN/Desktop/todo/project.c/spxe-main/build/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir

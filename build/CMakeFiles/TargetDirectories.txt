@@ -1,3 +1,0 @@
-C:/Users/ADMIN/Desktop/todo/project.c/spxe-main/build/CMakeFiles/gameoflife.dir
-C:/Users/ADMIN/Desktop/todo/project.c/spxe-main/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/ADMIN/Desktop/todo/project.c/spxe-main/build/CMakeFiles/ZERO_CHECK.dir
