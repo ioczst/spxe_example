@@ -4,7 +4,7 @@
 #include <string.h>
 
 /* This program opens up a 800 x 600 window in a 10:1 pixel scale.
- * Each frame it clears the pixel buffer to white, then plots the
+ * Each frame it clears the pixel buffer to white, then plots the 
  * center pixel red and the pixel pointed by the mouse blue.    */
 
 #define WIDTH 800
@@ -17,8 +17,8 @@ int main(void)
     const int width = WIDTH * SCALE, height = HEIGHT * SCALE;
     const int halfWidth = width / 2, halfHeight = height / 2;
     const size_t buflen = width * height * sizeof(Px);
-    const Px red = { 255, 0, 0, 255 }, blue = { 0, 0, 255, 0 };
-
+    const Px red = {255, 0, 0, 255}, blue = {0, 0, 255, 0};
+    
     Px* pixbuf = spxeStart("example", WIDTH, HEIGHT, width, height);
     if (!pixbuf) {
         fprintf(stderr, "could not init spxe\n");
